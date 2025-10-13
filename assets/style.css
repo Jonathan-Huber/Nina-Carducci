@@ -87,13 +87,13 @@ body {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 1.2;
 	width: 60%;
 }
 #about-me p {
 	width: 80%;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 #gallery {
@@ -265,6 +265,15 @@ input[type="submit"] {
 	#about-me .about-me__introduction, #about-me p {
 		width: 100%;
 	}
+
+	#about-me .about-me__introduction {
+		font-size: 16px;
+	}
+
+	#about-me p {
+		font-size: 14px;
+	}
+
 }
 
 .sr-only {
