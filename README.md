@@ -19,9 +19,14 @@ L’objectif est d’optimiser un site web existant pour une photographe, en am�
 - JavaScript
 - Git / GitHub
 
+## Outils d’audit et de validation
+
+- Lighthouse (analyse des performances, SEO, accessibilité)
+- WAVE (vérification de l’accessibilité)
+
 ## Statut
 
-- En cours
+- Finalisé et validé en soutenance le 15/10/2025
 
 ## Auteur
 
